@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/claranet-coast/ttt/cmd/root"
+import "github.com/claranet-coast/ttt/cmd"
 
 func main() {
 	cmd.Execute()
