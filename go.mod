@@ -1,4 +1,4 @@
-module ttt
+module github.com/claranet-coast/ttt
 
 go 1.14
 
